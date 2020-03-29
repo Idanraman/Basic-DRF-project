@@ -1,0 +1,7 @@
+django
+django-rest-framework
+pytest
+pytest-django
+pytest-pdb
+mixer
+django-filter
